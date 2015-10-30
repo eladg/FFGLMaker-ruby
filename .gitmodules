@@ -1,0 +1,3 @@
+[submodule "src/ShaderMaker-template"]
+	path = src/ShaderMaker-template
+	url = https://github.com/eladg/ShaderMaker-template.git
